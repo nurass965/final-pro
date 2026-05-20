@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "title": "Finish project report",
+        "description": "Complete final project documentation",
+        "priority": "high",
+        "deadline": "2026-05-10",
+        "status": "in_progress",
+        "type": "work",
+        "project_name": "Python Final Project"
+    },
+    {
+        "id": 2,
+        "title": "Prepare code defense",
+        "description": "Explain classes, JSON, tests and algorithms",
+        "priority": "high",
+        "deadline": "2026-05-22",
+        "status": "pending",
+        "type": "general"
+    },
+    {
+        "id": 3,
+        "title": "Buy groceries",
+        "description": "Milk, bread, eggs",
+        "priority": "low",
+        "deadline": "2026-05-25",
+        "status": "pending",
+        "type": "personal",
+        "category": "Home"
+    }
+]
