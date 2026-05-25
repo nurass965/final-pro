@@ -163,10 +163,8 @@ The project uses:
 
 Write your team members here:
 
-1. Student 1 — task model, OOP classes
-2. Student 2 — task manager service and algorithms
-3. Student 3 — file handling and JSON
-4. Student 4 — testing and README
+1. Student 1 — task model, OOP classes, file handling and JSON
+2. Student 2 — task manager service and algorithms, testing and README
 
 ## Contribution Plan for GitHub
 
@@ -177,21 +175,18 @@ Example commit distribution:
 ### Student 1
 - Add Task, WorkTask and PersonalTask classes
 - Add validation for priority, status and deadline
+- Add JSON file handling
+- Add sample tasks
+- Connect file saving/loading to main menu
 
 ### Student 2
 - Add TaskManager class
 - Add add/edit/delete/complete functions
 - Add sorting, overdue tasks and statistics
-
-### Student 3
-- Add JSON file handling
-- Add sample tasks
-- Connect file saving/loading to main menu
-
-### Student 4
 - Add unit tests
 - Add README documentation
 - Test edge cases
+
 
 ## Example JSON Format
 
